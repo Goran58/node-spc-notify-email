@@ -1,0 +1,16 @@
+{
+  "name": "spc-notify-email",
+  "version": "0.10.0",
+  "description": "Send events from Siemens SPC alarm by push email",
+  "author": "Goran Lundquist <info@lundix.se>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Goran58/node-spc-notify-email.git"
+  },
+  "dependencies": {
+    "websocket": "*",
+    "emailjs": "*"
+  },
+  "engine": "node 0.10.x",
+  "main": "node-spc-notify-email.js"
+}

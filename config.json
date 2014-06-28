@@ -1,0 +1,11 @@
+{
+   "spc_gw_ws":"wss://<SPC_WEB_GATEWAY_IP>:8088",
+   "auth":"?username=<SPC_WEB_GATEWAY_USER>&password=<SPC_WEB_GATEWAY_PWD>",
+
+   "email_from":"<FROM>@gmail.com>",
+   "email_to":"<TO>@gmail.com",
+   "email_server_user":"<USER>",
+   "email_server_password":"<PASSWD>",
+   "email_server_host":"smtp.gmail.com",
+   "email_server_ssl":"true"
+}
